@@ -1,1 +1,1 @@
-# Next.js MUI with TypeScript Starter
+# CEDI Education Support Program
